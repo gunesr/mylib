@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 from __future__ import print_function
 
-import adacogGym as gym
+import gym
 import sys, time
 
 #
